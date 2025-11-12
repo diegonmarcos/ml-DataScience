@@ -221,7 +221,3 @@ Below is a clear, section-by-section explanation you can use to understand risk_
 
 ---
 
-Colorful sign-off 🌈✨
-Thanks for using this repo — may your analyses be reproducible, your tail risks manageable, and your plots always readable! 📊🛡️🔬
-
-(If you'd like, I can now generate a ready-to-commit README.md file with this content formatted for immediate use.)
