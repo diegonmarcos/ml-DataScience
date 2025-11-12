@@ -2,12 +2,12 @@
 Notebooks > Excel - for people who prefer code cells to pivot tables (and occasional chaos).
 
 
-GitHub Copilot Chat Assistant
+
 
 # ml-DataScience — risk_analysis_1.ipynb
 ![Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange) ![Language](https://img.shields.io/badge/Language-Jupyter%20Notebook-blue) ![Size](https://img.shields.io/badge/Size-~1.7MB-green)
 
-A friendly, colorful, emoji-rich README that explains the repository and the included Jupyter notebook (risk_analysis_1.ipynb). Use this as the canonical guide to understand, run, and extend the risk-analysis notebook. 🚀📊
+
 
 ---
 
